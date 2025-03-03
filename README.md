@@ -18,7 +18,7 @@ This project is a decentralized crowdfunding platform built on the Ethereum bloc
 
 ## Prerequisites
 Ensure you have the following installed:
-- [Node.js](https://nodejs.org/)
+- [Node.js](https://nodejs.org/)  // Note use Node v18.12.1
 - [MetaMask Extension](https://metamask.io/)
 - Hardhat: Install using:
   ```sh
